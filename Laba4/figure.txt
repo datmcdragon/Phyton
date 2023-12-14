@@ -1,0 +1,8 @@
+[31mRRR     [0m[31m III    [0m[31mFFFFF   [0m[31m JJ     [0m[31mRRR     [0m[31mU   U   [0m[31mH   H   [0m[31mFFFFF   [0m
+[31mR   R   [0m[31m  I     [0m[31mF       [0m[31m  J     [0m[31mR   R   [0m[31mU   U   [0m[31mH   H   [0m[31mF       [0m
+[31mRRR     [0m[31m  I     [0m[31mFFF     [0m[31m  J     [0m[31mRRR     [0m[31mU   U   [0m[31mHHHHH   [0m[31mFFF     [0m
+[31mR R     [0m[31m  I     [0m[31mF       [0m[31mJ J     [0m[31mR R     [0m[31mU   U   [0m[31mH   H   [0m[31mF       [0m
+[31mR  R    [0m[31m III    [0m[31mF       [0m[31m JJ     [0m[31mR  R    [0m[31m UUU    [0m[31mH   H   [0m[31mF       [0m
+[31m        [0m
+[31m        [0m
+[31m        [0m
